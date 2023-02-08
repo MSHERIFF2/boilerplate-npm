@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"Author": "Muritala Sheriffdeen Adegoke",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
